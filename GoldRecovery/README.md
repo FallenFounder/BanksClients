@@ -11,8 +11,8 @@
 pandas, numpy, matplotlib и sklearn.
 
 ## Данные
-gold_industry_train.csv — обучающая выборка
-gold_industry_test.csv — тестовая выборка
-gold_industry_full.csv — исходные данные
+* gold_industry_train.csv — обучающая выборка
+* gold_industry_test.csv — тестовая выборка
+* gold_industry_full.csv — исходные данные
 
 Название каждого признака соответсвует его физическому смыслу
